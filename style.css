@@ -1,0 +1,22 @@
+nav {
+    background-color: black;
+    color: white;
+    width: 100%;
+}
+
+.nav-icons {
+    width: 30px;
+    height: 30px;
+}
+
+li {
+    list-style: none;
+    display: inline-block;
+    text-align: center;
+    margin: 35px;
+    }
+
+footer {
+    background-color: lightgray;
+    
+}
