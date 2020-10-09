@@ -9,14 +9,27 @@ nav {
     height: 30px;
 }
 
+h1 {
+    text-align: center;
+}
+h3 {
+    text-align: center;
+}
 li {
     list-style: none;
     display: inline-block;
     text-align: center;
     margin: 35px;
-    }
+}
+
+.product-container{
+   align-content: center;
+}
 
 footer {
     background-color: lightgray;
-    
+    position: fixed;
+    left: 0;
+   bottom: 0;
+   width: 100%;
 }
